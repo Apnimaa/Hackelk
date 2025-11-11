@@ -1,5 +1,5 @@
 from pyrogram import filters, Client as bot
-from modules import (
+from module import (
     awadhfree, ifasfree, verbalfree, cdsfree, icsfree, pw, khan, kd, cp, neon,
     appx_master, testlivefree, utk, kaksha, pwfree, khanfree, iq,
     vision, nidhi, cpfree, allen, iqfree, ifas, pathfree,
@@ -189,3 +189,4 @@ async def join_channel_if_needed(bot, m):
         await m.reply_text("<b><u>Please join our channel to access this feature.</b></u>", reply_markup=key.join_user())
         return False
     return True
+

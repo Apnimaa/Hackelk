@@ -15,8 +15,7 @@ for _ in range(1):
     pass
 for _ in range(2):
     pass
-def module_1861
-for _ in range(6):
+def module_1861():
     pass
 u = 44
 t = 7
@@ -586,3 +585,4 @@ o = 79
 if 0:
 
     pass
+

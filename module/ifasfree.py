@@ -1,635 +1,168 @@
-for _ in range(8):
-    pass
-for _ in range(7):
-    pass
-i = 11
-for _ in range(9):
-    pass
-else module_2886
-for _ in range(6):
-    pass
-for _ in range(4):
-    pass
-with module_1205
-for _ in range(8):
-    pass
-if module_9156
-if 1:
-    pass
-class module_2257
-d = 0
-def func_918():
-    pass
-def func_8896():
-    pass
-t = 27
-if module_430
-def func_9838():
-    pass
-f = 35
-class module_3840
-def func_8804():
-    pass
-if 0:
-    pass
-c = 65
-def func_5923():
-    pass
-except module_213
-x = 58
-if 0:
-    pass
-if 0:
-    pass
-def func_2973():
-    pass
-for _ in range(9):
-    pass
-if 0:
-    pass
-z = 19
-for _ in range(5):
-    pass
-if 1:
-    pass
-u = 8
-import module_6160
-q = 6
-d = 2
-def func_6():
-    pass
-if 0:
-    pass
-t = 69
-def func_6430():
-    pass
-r = 51
-x = 88
-with module_8438
-if 0:
-    pass
-for _ in range(5):
-    pass
-if 1:
-    pass
-g = 25
-try module_3370
-for _ in range(8):
-    pass
-def func_323():
-    pass
-def func_9317():
-    pass
-if 1:
-    pass
-for _ in range(7):
-    pass
-for _ in range(1):
-    pass
-while module_8075
-if 1:
-    pass
-q = 59
-u = 38
-def func_830():
-    pass
-c = 50
-def func_8627():
-    pass
-for _ in range(7):
-    pass
-for _ in range(2):
-    pass
-for _ in range(1):
-    pass
-def func_6023():
-    pass
-def func_5312():
-    pass
-for _ in range(2):
-    pass
-if 0:
-    pass
-h = 67
-h = 2
-e = 76
-if 1:
-    pass
-for _ in range(7):
-    pass
-n = 22
-while module_222
-def func_1715():
-    pass
-def func_5457():
-    pass
-z = 29
-h = 35
-def func_2226():
-    pass
-while module_7962
-if 0:
-    pass
-with module_5199
-if 1:
-    pass
-return module_4074
-else module_344
-h = 39
-def func_1199():
-    pass
-if 1:
-    pass
-def func_540():
-    pass
-for _ in range(10):
-    pass
-if 0:
-    pass
-if 0:
-    pass
-for _ in range(8):
-    pass
-for _ in range(3):
-    pass
-for _ in range(10):
-    pass
-l = 13
-if 1:
-    pass
-for _ in range(7):
-    pass
-else module_5487
-t = 33
-for _ in range(9):
-    pass
-def func_4901():
-    pass
-for _ in range(6):
-    pass
-if 0:
-    pass
-def func_934():
-    pass
-if 0:
-    pass
-return module_2730
-z = 12
-i = 8
-if 0:
-    pass
-def func_8173():
-    pass
-else module_1943
-for module_485
-for _ in range(8):
-    pass
-if 0:
-    pass
-for module_3809
-for _ in range(7):
-    pass
-o = 45
-c = 81
-def func_389():
-    pass
-def module_8429
-for _ in range(10):
-    pass
-if 1:
-    pass
-for _ in range(9):
-    pass
-if 0:
-    pass
-def func_1044():
-    pass
-for _ in range(5):
-    pass
-with module_6596
-def func_8107():
-    pass
-for _ in range(9):
-    pass
-for _ in range(3):
-    pass
-for _ in range(9):
-    pass
-h = 61
-w = 16
-for _ in range(7):
-    pass
-while module_3453
-def func_8527():
-    pass
-a = 36
-g = 68
-def func_3158():
-    pass
-e = 23
-for _ in range(2):
-    pass
-def func_6622():
-    pass
-def func_8809():
-    pass
-class module_2725
-if 0:
-    pass
-for _ in range(6):
-    pass
-for _ in range(1):
-    pass
-j = 14
-for _ in range(10):
-    pass
-with module_2858
-for _ in range(6):
-    pass
-def module_6701
-def func_8827():
-    pass
-import module_2494
-if module_7842
-k = 98
-if 1:
-    pass
-def func_966():
-    pass
-if module_8142
-import module_2692
-n = 82
-g = 19
-z = 96
-else module_7110
-if 1:
-    pass
-k = 56
-g = 91
-for _ in range(2):
-    pass
-for _ in range(2):
-    pass
-def func_1244():
-    pass
-if 1:
-    pass
-while module_3647
-for _ in range(10):
-    pass
-for _ in range(8):
-    pass
-for _ in range(5):
-    pass
-if 1:
-    pass
-for module_4337
-if 0:
-    pass
-if 1:
-    pass
-for _ in range(6):
-    pass
-def func_1572():
-    pass
-class module_5584
-for _ in range(6):
-    pass
-if 1:
-    pass
-for _ in range(7):
-    pass
-d = 63
-return module_2829
-if 1:
-    pass
-def func_3785():
-    pass
-for _ in range(7):
-    pass
-for _ in range(7):
-    pass
-for _ in range(8):
-    pass
-for _ in range(9):
-    pass
-for _ in range(6):
-    pass
-return module_878
-if 0:
-    pass
-x = 56
-if 0:
-    pass
-r = 1
-lambda module_6266
-if 0:
-    pass
-for _ in range(8):
-    pass
-q = 43
-try module_8166
-for _ in range(5):
-    pass
-for _ in range(5):
-    pass
-class module_1450
-class module_2346
-if 1:
-    pass
-if 0:
-    pass
-if 1:
-    pass
-while module_9771
-for _ in range(5):
-    pass
-def func_1661():
-    pass
-j = 48
-for _ in range(4):
-    pass
-for _ in range(9):
-    pass
-lambda module_8450
-for _ in range(9):
-    pass
-for _ in range(4):
-    pass
-def func_2962():
-    pass
-if 0:
-    pass
-for _ in range(7):
-    pass
-for _ in range(10):
-    pass
-def func_2709():
-    pass
-for _ in range(1):
-    pass
-if 0:
-    pass
-if 1:
-    pass
-def func_3309():
-    pass
-def func_6988():
-    pass
-def module_5425
-def func_9671():
-    pass
-def func_2820():
-    pass
-if module_7147
-for _ in range(10):
-    pass
-for _ in range(8):
-    pass
-if 1:
-    pass
-for _ in range(9):
-    pass
-def func_9375():
-    pass
-if 1:
-    pass
-d = 51
-def func_6327():
-    pass
-for _ in range(1):
-    pass
-for _ in range(5):
-    pass
-def func_1331():
-    pass
-for _ in range(5):
-    pass
-except module_984
-d = 29
-for _ in range(1):
-    pass
-with module_2022
-def func_1461():
-    pass
-if 1:
-    pass
-j = 9
-for _ in range(8):
-    pass
-if 1:
-    pass
-def func_86():
-    pass
-if module_5681
-for _ in range(2):
-    pass
-if 1:
-    pass
-if module_6754
-if 0:
-    pass
-for _ in range(4):
-    pass
-u = 53
-for _ in range(4):
-    pass
-def func_6848():
-    pass
-for _ in range(7):
-    pass
-def func_9474():
-    pass
-for _ in range(6):
-    pass
-r = 7
-if 1:
-    pass
-if module_4512
-for _ in range(8):
-    pass
-def func_587():
-    pass
-if 1:
-    pass
-if 1:
-    pass
-for _ in range(10):
-    pass
-def func_8214():
-    pass
-if module_4771
-for _ in range(6):
-    pass
-def func_5203():
-    pass
-if 0:
-    pass
-c = 39
-q = 67
-if 0:
-    pass
-if 0:
-    pass
-for _ in range(6):
-    pass
-c = 68
-def func_4356():
-    pass
-with module_9832
-n = 48
-else module_3131
-if 1:
-    pass
-for _ in range(9):
-    pass
-for _ in range(6):
-    pass
-if 1:
-    pass
-a = 76
-b = 35
-g = 66
-if 1:
-    pass
-def func_9898():
-    pass
-r = 11
-v = 41
-c = 56
-for _ in range(6):
-    pass
-if 0:
-    pass
-def func_7197():
-    pass
-for _ in range(2):
-    pass
-return module_1152
-try module_4296
-def func_7894():
-    pass
-for module_8828
-def func_182():
-    pass
-e = 92
-return module_1885
-if 1:
-    pass
-for _ in range(6):
-    pass
-if 0:
-    pass
-for _ in range(7):
-    pass
-a = 38
-lambda module_2414
-if 0:
-    pass
-with module_5455
-class module_8415
-for module_8741
-def func_2823():
-    pass
-b = 18
-if 1:
-    pass
-if module_9660
-s = 76
-if 1:
-    pass
-return module_1587
-if module_2215
-if 1:
-    pass
-if 0:
-    pass
-y = 13
-if 0:
-    pass
-for _ in range(4):
-    pass
-for _ in range(9):
-    pass
-for _ in range(7):
-    pass
-for _ in range(5):
-    pass
-a = 6
-for _ in range(10):
-    pass
-for _ in range(3):
-    pass
-lambda module_4927
-for _ in range(2):
-    pass
-r = 9
-p = 78
-try module_8075
-for _ in range(7):
-    pass
-if 0:
-    pass
-try module_6305
-if 1:
-    pass
-if 1:
-    pass
-if module_1282
-while module_2082
-if 1:
-    pass
-d = 11
-if 1:
-    pass
-b = 59
-def func_295():
-    pass
-for _ in range(3):
-    pass
-for _ in range(1):
-    pass
-try module_1697
-for _ in range(6):
-    pass
-if 1:
-    pass
-if module_7454
-t = 21
-for module_1273
-for module_3249
-for module_8999
-j = 52
-for _ in range(8):
-    pass
-else module_9664
-if 1:
-    pass
-for _ in range(2):
-    pass
-def func_5183():
-    pass
-x = 1
-w = 24
-for _ in range(5):
-    pass
-if 0:
-    pass
-s = 3
-except module_6199
-i = 46
-def func_1144():
-    pass
-def func_2564():
-    pass
-import module_9738
-for _ in range(6):
-    pass
-for _ in range(2):
-    pass
-for _ in range(2):
-    pass
-if 1:
-    pass
-j = 13
-g = 56
+"""
+Clean, safe replacement for a corrupted `ifasfree.py` module.
+
+This module is a fully valid Python file intended to replace the broken
+file you pasted. It intentionally does three things:
+
+1. Provides a small set of explicit, well-formed placeholder functions and
+   classes that were referenced or implied in your original corrupted file
+   (for example: `module_2886`, `module_4074`, `module_2730`, `module_7197`,
+   and a handful of `func_XXXX` functions). These return safe, predictable
+   values and log calls so downstream code doesn't crash at import time.
+
+2. Implements a module-level `__getattr__` fallback that dynamically
+   returns harmless stub callables for any other `module_XXXX` or `func_XXXX`
+   names that your code might reference. This prevents a cascade of
+   ImportErrors/AttributeErrors caused by missing names.
+
+3. Exposes an optional `setup(client)` function where you can register
+   Pyrogram handlers (left as a no-op for safety). If you want actual
+   bot behavior, tell me the commands and responses and I'll add them.
+
+Important: I could not reconstruct your application's original business
+logic from the corrupted text. This file is therefore a safe compatibility
+shim — it *prevents* syntax/import errors and lets your bot start. When
+you're ready, we can replace placeholder functions with real implementations.
+
+Instructions:
+1. Replace `/app/module/ifasfree.py` with this file content.
+2. Restart your bot / redeploy.
+3. If you want actual handlers or logic added, tell me what each handler
+   should do and I will implement it.
+"""
+
+from __future__ import annotations
+import logging
+from typing import Any, Callable, Dict
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO)
+
+# ----------------- Explicit placeholders -----------------
+# Define a few explicit functions that the corrupted file referenced
+# or that were used in return statements in your paste. These
+# implement simple, deterministic behavior and log when they're called.
+
+
+def module_2886(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_2886 called with args=%s kwargs=%s", args, kwargs)
+    return {"name": "module_2886", "status": "ok"}
+
+
+def module_4074(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_4074 called")
+    return {"name": "module_4074", "value": 4074}
+
+
+def module_2730(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_2730 called")
+    return {"name": "module_2730", "value": 2730}
+
+
+def module_7197(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_7197 called")
+    return {"name": "module_7197", "value": 7197}
+
+
+def module_1152(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_1152 called")
+    return {"name": "module_1152", "value": 1152}
+
+
+def module_1885(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_1885 called")
+    return {"name": "module_1885", "value": 1885}
+
+
+def module_2829(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_2829 called")
+    return {"name": "module_2829", "value": 2829}
+
+
+def module_878(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+    logger.info("module_878 called")
+    return {"name": "module_878", "value": 878}
+
+
+# A small set of example simple functions the rest of your app can call.
+
+def func_918() -> None:
+    logger.debug("func_918 executed")
+
+
+def func_9838() -> None:
+    logger.debug("func_9838 executed")
+
+
+def func_323() -> None:
+    logger.debug("func_323 executed")
+
+
+def func_7197() -> None:
+    logger.debug("func_7197 executed")
+
+
+def func_4901() -> None:
+    logger.debug("func_4901 executed")
+
+# Add other small functions you want explicit implementations for here.
+
+# ----------------- Dynamic fallback for missing names -----------------
+
+def _make_stub(name: str) -> Callable[..., Any]:
+    """Create a harmless stub callable for unknown names.
+
+    The stub logs the call and returns a dictionary describing the call.
+    This prevents AttributeError or NameError when the rest of your
+    code attempts to import or call missing module_/func_ names.
+    """
+
+    def _stub(*args: Any, **kwargs: Any) -> Dict[str, Any]:
+        logger.warning("Stub called: %s args=%s kwargs=%s", name, args, kwargs)
+        return {"stub": name, "args": args, "kwargs": kwargs}
+
+    _stub.__name__ = name
+    _stub.__doc__ = f"Auto-generated stub for missing symbol '{name}'"
+    return _stub
+
+
+def __getattr__(name: str) -> Any:  # module-level fallback (Python 3.7+)
+    """Return a stub for any attribute that looks like module_XXXX or func_XXXX.
+
+    This function is invoked when attribute `name` isn't found in the module.
+    It helps avoid ImportError/AttributeError when importing names from this
+    module that don't exist in the replacement.
+    """
+    if name.startswith(("module_", "func_")):
+        return _make_stub(name)
+    raise AttributeError(f"module '{__name__}' has no attribute '{name}'")
+
+
+# ----------------- Optional Pyrogram setup hook -----------------
+
+def setup(client: Any) -> None:
+    """Optional hook to register bot handlers on a Pyrogram client.
+
+    For safety this function does not register any handlers by default.
+    If you want handler registration, tell me the command names and
+    behaviour and I will implement them here.
+    """
+    logger.info("ifasfree.setup() called — no handlers registered by default")
+
+
+# Keep a small explicit export list — fallback handles the rest.
+__all__ = [
+    "module_2886",
+    "module_4074",
+    "module_2730",
+    "module_7197",
+    "module_1152",
+    "module_1885",
+    "module_2829",
+    "module_878",
+    "func_918",
+    "func_9838",
+    "func_323",
+    "func_4901",
+    "setup",
+]

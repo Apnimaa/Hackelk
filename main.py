@@ -1,46 +1,31 @@
-import os
+from config import Config
+from pyrogram import Client, idle
 import asyncio
-from pyrogram import Client
+import logging
 
-# ===== Environment Variables =====
-API_ID = os.environ.get("API_ID")
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+logging.basicConfig(level=logging.INFO)
+LOGGER = logging.getLogger(__name__)
 
-if not API_ID or not API_HASH or not BOT_TOKEN:
-    raise RuntimeError("API_ID / API_HASH / BOT_TOKEN missing in Render Environment")
+plugins = dict(root="plugins")
 
-API_ID = int(API_ID)
-
-# ===== Pyrogram Client =====
 bot = Client(
-    name="bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    "Master",
+    bot_token=Config.BOT_TOKEN,
+    api_id=Config.API_ID,
+    api_hash=Config.API_HASH,
     sleep_threshold=120,
-    workers=50
+    plugins=plugins,
+    workers=200  # 10000 mat rakho, Render pe heavy hai
 )
 
-# ===== Main =====
 async def main():
     await bot.start()
-    print("✅ Bot Started Successfully on Render")
-    await asyncio.Event().wait()
+    bot_info = await bot.get_me()
+    LOGGER.info(f"<--- @{bot_info.username} Started --->")
+    await idle()
+    await bot.stop()
 
 if __name__ == "__main__":
     asyncio.run(main())
-    
-from flask import Flask
-import os
 
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Bot is running"
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port)
 

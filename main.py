@@ -10,9 +10,9 @@ plugins = dict(root="plugins")
 if __name__ == "__main__":
     bot = Client(
         "Master",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config.API_ID,
-        api_hash=Config.API_HASH,
+        bot_token="8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY",
+        api_id=27433400,
+        api_hash="1a286620de5ffe0a7d9b57e604293555",
         sleep_threshold=120,
         plugins=plugins,
         workers=10000,
@@ -24,3 +24,4 @@ if __name__ == "__main__":
         await idle()
     asyncio.get_event_loop().run_until_complete(main())
     LOGGER.info("<--- Bot Stopped --->")
+

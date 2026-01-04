@@ -2,32 +2,31 @@ import os
 import asyncio
 from pyrogram import Client
 
-API_ID = int(os.environ.get("API_ID"))
+# ===== Environment Variables =====
+API_ID = os.environ.get("API_ID")
 API_HASH = os.environ.get("API_HASH")
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
+if not API_ID or not API_HASH or not BOT_TOKEN:
+    raise RuntimeError("API_ID / API_HASH / BOT_TOKEN missing in Render Environment")
+
+API_ID = int(API_ID)
+
+# ===== Pyrogram Client =====
 bot = Client(
-    "bot",
-    api_id=27433400,
-    api_hash="1a286620de5ffe0a7d9b57e604293555",
-    bot_token="8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY",
+    name="bot",
+    api_id=API_ID,
+    api_hash=API_HASH,
+    bot_token=BOT_TOKEN,
     sleep_threshold=120,
-    plugins=plugins,
-    workers=200,
+    workers=50
 )
 
+# ===== Main =====
 async def main():
     await bot.start()
-    print("Bot Started Successfully")
+    print("✅ Bot Started Successfully on Render")
     await asyncio.Event().wait()
 
 if __name__ == "__main__":
     asyncio.run(main())
-    
-
-
-
-
-
-
-

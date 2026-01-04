@@ -8,7 +8,7 @@ bot = Client(
     "bot",
     api_id=API_ID,
     api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    bot_token=BOT_TOKEN,
     sleep_threshold=120,
     plugins=plugins,
     workers=200,
@@ -19,5 +19,6 @@ bot = Client(
     print("Bot Started Successfully")
     await asyncio.Event().wait()
     
+
 
 

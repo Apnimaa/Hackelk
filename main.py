@@ -1,9 +1,11 @@
-from pyrogram import Client
+import os
 import asyncio
+from pyrogram import Client
 
-API_ID = int(os.environ.get("27433400"))
-API_HASH = os.environ.get("1a286620de5ffe0a7d9b57e604293555")
-BOT_TOKEN = os.environ.get("8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY")
+API_ID = int(os.environ["27433400"])
+API_HASH = os.environ["+1a286620de5ffe0a7d9b57e604293555"]
+BOT_TOKEN = os.environ["8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY"]
+
 bot = Client(
     "bot",
     api_id=API_ID,
@@ -14,11 +16,15 @@ bot = Client(
     workers=200,
 )
 
-    async def main():
+async def main():
     await bot.start()
     print("Bot Started Successfully")
     await asyncio.Event().wait()
+
+if __name__ == "__main__":
+    asyncio.run(main())
     
+
 
 
 
